@@ -9,4 +9,4 @@ Task
 
 Output
 
-![logo](/PyBank/images/logo.jpg)
+![logo](/images/scatter.jpg)
