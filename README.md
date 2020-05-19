@@ -12,5 +12,5 @@ Task
 Output
 
 ![logo](/images/scatter.jpg)
-![logo](/images/animated scatter.jpg)
-![logo](/images/tooltip.jpg)
+![logo](/images/animated scatter.gif)
+![logo](/images/tooltip.gif)
