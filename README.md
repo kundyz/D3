@@ -10,6 +10,7 @@ Task
 * Add tooltips to your circles and display each tooltip with the data that the user has selected.
 
 Output
+
 ![logo](/images/Scatter.jpg)
 ![logo](/images/AnimatedScatter.gif)
 ![logo](/images/Tooltip.gif)
